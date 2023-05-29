@@ -1,0 +1,40 @@
+{
+    "productos": [
+      {
+        "nombre": "Camiseta",
+        "precio": 19.99,
+        "descripcion": "Una camiseta de algodón cómoda y ligera",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/2/27/Camiseta_lisa.jpg"
+      },
+      {
+        "nombre": "Pantalones vaqueros",
+        "precio": 39.99,
+        "descripcion": "Pantalones vaqueros de corte ajustado y estilo moderno",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Denimjeans2.JPG/800px-Denimjeans2.JPG"
+      },
+      {
+        "nombre": "Sudadera con capucha",
+        "precio": 29.99,
+        "descripcion": "Una sudadera suave con capucha y bolsillos",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/5/58/Felpa.JPG"
+      },
+      {
+        "nombre": "Vestido",
+        "precio": 49.99,
+        "descripcion": "Vestido elegante y femenino para ocasiones especiales",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dress_MET_19.181.1_F2.jpeg/800px-Dress_MET_19.181.1_F2.jpeg"
+      },
+      {
+        "nombre": "Zapatos deportivos",
+        "precio": 59.99,
+        "descripcion": "Zapatos deportivos ligeros y transpirables",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Nitrocharge1.jpg"
+      },
+      {
+        "nombre": "Chaqueta",
+        "precio": 79.99,
+        "descripcion": "Chaqueta resistente al agua y al viento",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Tweed_jacket_edited.jpg"
+      }
+    ]
+  }
